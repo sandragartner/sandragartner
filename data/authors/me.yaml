@@ -1,116 +1,237 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: "Sandra Gärtner"
+  given: "Sandra"
+  family: "Gärtner"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "she/her"
+  middle: "Frida Josefin"
 postnominals:
-  - PhD
-  - MIEEE
+  - "PhD"
+  - "MIEEE"
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
-bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
+  icon: "🎓"
+role: "Public Health Research Scientist"
+bio: "Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
+
   has been published in top conferences like NeurIPS and ICML, with over
+
   10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
 
+  while ensuring ethical development.\n"
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: "Meta AI"
+    url: "https://ai.meta.com/"
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+  - icon: "at-symbol"
+    url: "mailto:alex.johnson@example.com"
+    label: "E-mail Me"
+  - icon: "brands/x"
+    url: "https://x.com/example"
+  - icon: "brands/github"
+    url: "https://github.com/example"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/example/"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=example"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0000-0002-1825-0097"
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
-
+  - "Large Language Models"
+  - "Computer Vision"
+  - "Reinforcement Learning"
+  - "AI Ethics"
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+  - degree: "PhD Computer Science"
+    institution: "Stanford University"
+    start: "2015-09-01"
+    end: "2019-06-30"
+    summary: "Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.\n"
     button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
+      text: "Download dissertation"
+      url: "/resume.pdf"
+      icon: "hero/arrow-down-tray"
+  - degree: "MS Computer Science"
+    institution: "Carnegie Mellon University"
+    start: "2013-09-01"
+    end: "2015-05-31"
+  - degree: "BS Computer Science"
+    institution: "MIT"
+    start: "2009-09-01"
+    end: "2013-05-31"
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+  - role: "Research Assistant"
+    org: "Sophiahemmet University College"
+    type: "Part-time"
+    start: "2025-06"
+    end: "present"
+    location: "Stockholm Municipality, Stockholm County, Sweden"
+    mode: "Hybrid"
+    summary: "Conducting quantitative data collection and analysis in a randomized research project on digital MediYoga for atrial fibrillation. Working with participant contact, survey and health data, report support, and ongoing research administration."
+    skills:
+      - "Quantitative research"
+      - "Quantitative analysis"
+      - "Data collection"
+      - "Survey design"
+      - "Questionnaire design"
+      - "EsMaker"
+      - "Research ethics"
+      - "Intervention study"
+      - "SPSS"
+      - "Microsoft Office"
+  - role: "Research Assistant"
+    org: "Regional Cancer Center Stockholm Gotland"
+    type: "Freelance"
+    start: "2024-08"
+    end: "present"
+    location: ""
+    mode: "Hybrid"
+    summary: "Project administrator for the event Swedish Forum for Integrative Cancer Care V, as well as research assistant in the evaluation of educational initiatives in complementary and alternative medicine for healthcare professionals and cancer patients."
+    skills:
+      - "Project coordination"
+      - "Event planning"
+      - "Interviews"
+      - "SPSS"
+      - "Theses"
+      - "Design, implement, and evaluate interventions"
+  - role: "Restorative Yoga Teacher and Reiki Master"
+    org: "Self-employed"
+    type: ""
+    start: "2021-01"
+    end: "2024-12"
+    location: ""
+    mode: "Hybrid"
+    summary: "Exploring the intersection of science and spirituality by critically examining practices such as yoga, meditation, breathing, and energy medicine with an evidence-based approach. Previously guided hundreds of individuals through courses, individual sessions, retreats, and group work. Currently offering the concept Rest in Reiki, a calming program focused on stillness and recovery combining restorative yoga, meditation, reiki, and soothing breathing exercises."
+    skills:
+      - "Business development"
+      - "Business management"
+      - "Leadership"
+      - "Creative strategy"
+      - "Budget planning and forecasting"
+  - role: "Project Assistant"
+    org: "Regional Cancer Center Stockholm Gotland"
+    type: "Internship"
+    start: "2024-02"
+    end: "2024-04"
+    location: "Stockholm, Stockholm County, Sweden"
+    mode: "Remote"
+    summary: "Supported the development of the Integrative Cancer Care support process and initiated the evaluation of educational initiatives in complementary and alternative medicine for healthcare professionals and cancer patients."
+    skills:
+      - "Reporting & analysis"
+      - "Public sector"
+      - "Microsoft Excel"
+      - "Communication"
+      - "Strategic initiatives"
+  - role: "Operations Manager"
+    org: "Healthfulness Podcast"
+    type: "Freelance"
+    start: "2020-09"
+    end: "2021-09"
+    location: ""
+    mode: "Hybrid"
+    summary: "Development of the popular health podcast focused on holistic health together with the founder. Main focus on strategy work and research with many contact points, and occasionally interviewing guests."
+    skills:
+      - "Project management"
+      - "Problem solving"
+      - "Communication"
+      - "Business strategy"
+      - "Podcasting"
+      - "Social media"
+  - role: "Deputy CEO & HR Manager"
+    org: "Web Tech Media Group STHLM AB"
+    type: "Full-time"
+    start: "2019-07"
+    end: "2020-02"
+    location: ""
+    mode: "Hybrid"
+    summary: "As Deputy CEO and HR Manager, the work focused on business development, business controlling, and HR strategy. Budgeting, forecasting, and follow-up with associated management team work."
+    skills:
+      - "Budget planning and forecasting"
+      - "Follow-up"
+      - "Business development"
+      - "Microsoft Excel"
+      - "Strategic HR"
+      - "Communication"
+      - "Leadership"
+  - role: "HR Manager"
+    org: "Web Tech Media Group STHLM AB"
+    type: "Full-time"
+    start: "2018-05"
+    end: "2019-07"
+    location: "Stockholm, Sweden"
+    mode: ""
+    summary: "Business-developing HR Manager (Heart Manager) responsible for recruitment, employer branding, company holistic health, and staff development. Strong focus on personal development and coaching leadership."
+    skills:
+      - "HR policies"
+      - "HR strategy"
+      - "Employee welfare"
+      - "Staff development"
+      - "Project management"
+      - "Company events"
+      - "Employer branding"
+      - "Microsoft Excel"
+      - "Bookkeeping"
+  - role: "Senior Purchasing Assistant"
+    org: "H&M Home"
+    type: "Full-time"
+    start: "2015-01"
+    end: "2018-04"
+    location: "Stockholm, Sweden"
+    mode: "On-site"
+    summary: "Product development targeting existing and new customer groups using business tools. Ongoing budget strategy, statistics follow-up, business analysis, and forecast analysis. To some extent overseeing logistics flow and establishing and maintaining strong supplier relationships. Involved in the launch of H&M Classic collection."
+    skills:
+      - "Purchasing"
+      - "Product development"
+      - "Logistics management"
+      - "Supplier management"
+      - "Supplier relationships"
+      - "Merchandise flow planning"
+  - role: "Soft Collection Team Manager & Loan Officer"
+    org: "Ferratum Group"
+    type: "Full-time"
+    start: "2010-10"
+    end: "2013-07"
+    location: "Stockholm, Sweden"
+    mode: "On-site"
+    summary: "Customer service representative and team-leading debt collection officer."
+    skills:
+      - "Customer service management"
+      - "Team leadership"
+      - "Cross-functional coordination"
+      - "Crisis communication"
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - label: Python
+      - label: "Python"
         level: 5
-      - label: Machine Learning
+      - label: "Machine Learning"
         level: 5
-      - label: Cloud Computing
+      - label: "Cloud Computing"
         level: 4
-  - name: Research & Communication
+  - name: "Research & Communication"
     items:
-      - label: Academic Writing
+      - label: "Academic Writing"
         level: 5
-      - label: Conference Presentations
+      - label: "Conference Presentations"
         level: 4
-      - label: Grant Proposals
+      - label: "Grant Proposals"
         level: 4
-
 languages:
-  - name: English
+  - name: "English"
     level: 5
-    label: Native
-  - name: Spanish
+    label: "Native"
+  - name: "Spanish"
     level: 4
-    label: Fluent
-
+    label: "Fluent"
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
+  - title: "Best Paper Award"
+    awarder: "NeurIPS"
     date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+    summary: "Awarded for groundbreaking work on efficient training of large models."
+    icon: "hero/trophy"
+weight: null
+ids:
+  orcid: "0009-0009-4681-9509"
