@@ -2,7 +2,7 @@
 title: "På väg mot en digital offentlighetsprincip – slutrapport från projektet Undervaka"
 draft: true
 authors:
-- sandragartner
+- me
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
