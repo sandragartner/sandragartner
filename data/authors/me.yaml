@@ -9,7 +9,7 @@ name:
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: she/her
 postnominals:
-  - BsC.
+  - BsC
 status:
   icon: "☕️"
 role: Public Health Researcher
@@ -31,20 +31,20 @@ links:
     url: https://github.com/sandragartner
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
     url: https://orcid.org/0009-0009-4681-9509
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Public Health
+  - MediYoga
+  - Complimentary Medicine
+  - Data science
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
+  - degree: BsC Public Health
+    institution: Mid Sweden University
     start: 2015-09-01
     end: 2019-06-30
     summary: |
@@ -63,11 +63,12 @@ education:
     end: 2013-05-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Assistant
+    org: Sophiahemmet University College
+    type: Part-time
+    start: 2025-06-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Conducting quantitative data collection and analysis in a randomized research project on digital MediYoga for atrial fibrillation. Working with participant contact, survey and health data, report support, and ongoing research administration.
     button:
       text: View portfolio
       url: /
