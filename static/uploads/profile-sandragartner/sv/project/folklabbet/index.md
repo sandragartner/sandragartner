@@ -1,17 +1,18 @@
 ---
 title: Folklabbet.se
 date: 2014-06-29
-link: https://folklabbet.se/
-draft: true
+link:: https://folklabbet.se/
 tags:
   - ParticipatoryDesign
   - Design
   - Workshop
 ---
 
-Folklabbet är ett initiativ som samlar människor kring att lösa samhällsutmaningar genom designmetoder som sätter människan i centrum.
+Folklabbet samlar människor för att lösa samhällsutmaningar tillsammans genom design.
 
 <!--more-->
+
+Folklabbet är ett initiativ som samlar människor kring att lösa samhällsutmaningar genom designmetoder som sätter människan i centrum.
 
 ## Koncept
 

@@ -2,6 +2,7 @@
 title: SamNet.se
 date: 2024-01-18
 link:: https://samnet.se
+draft: true
 tags:
   - Opensource
   - Conference

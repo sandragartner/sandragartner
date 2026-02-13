@@ -7,7 +7,7 @@ author:     "Sandra Gärtner"
 header-img: "featured.jpg"
 image:
   caption: 'Image credit: [**Lucas Petti**](https://br.linkedin.com/in/lucaspretti)'
-draft: false
+draft: true
 summary: Yesterday I joined the first day of the Open Government Partnership Global Summit in Vitoria-Gasteiz. I'm looking forward to building relations and collaborations here until Friday!🤝
 ---
 

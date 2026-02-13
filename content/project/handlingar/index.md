@@ -2,6 +2,7 @@
 title: Handlingar.se
 date: 2023-10-26
 link:: https://gitlab.com/handlingar/
+draft: true
 tags:
   - Opensource
   - FreedomOfInformation

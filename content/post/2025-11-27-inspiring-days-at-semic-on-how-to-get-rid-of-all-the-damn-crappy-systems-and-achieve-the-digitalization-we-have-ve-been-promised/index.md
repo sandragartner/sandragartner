@@ -7,7 +7,7 @@ author: “Sandra Gärtner”
 header-img: “featured.jpg”
 image:
     caption: 'Image source: [**Mattias Axell**](https://mattiasaxell.com/)'
-draft: false
+draft: true
 summary: On November 25-26, 2025, I attended the SEMIC conference. It is Europe's leading event for semantic interoperability and digital public administration.
 ---
 

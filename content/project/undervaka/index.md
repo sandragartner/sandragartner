@@ -2,6 +2,7 @@
 title: Undervaka.se
 date: 2017-06-25
 link:: https://undervaka.se
+draft: true
 tags:
   - FreedomOfInformation
   - RightToKnow
