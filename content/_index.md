@@ -42,9 +42,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Public health scientist with expertise in evidence-based complementary and alternative medicine (CAM). Keen interest in social sustainability and holistic community development, with a firm belief that interdisciplinary and cross-sectoral collaboration is the key to success.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Solid background and education in business management and business development with the ability to see the big picture. Reflective, analytical and inclusive approach suitable for developing complex social challenges. Creative, curious and driven with the desire to create a safe, secure and prosperous world.
 
         Please reach out to collaborate 😃
     design:

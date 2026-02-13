@@ -18,7 +18,7 @@ bio: |
   Sophiahemmet, Kristianstad University and Mid Sweden University.
 
 affiliations:
-  - name: Sophiahemmet
+  - name: Sophiahemmet University
     url: https://shh.se/
 
 links:
@@ -27,14 +27,14 @@ links:
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/sandragartner
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/sandra-g%C3%A4rtner/
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
     url: https://orcid.org/0009-0009-4681-9509
+  - icon: brands/github
+    url: https://github.com/sandragartner
 
 interests:
   - Public Health
@@ -43,24 +43,34 @@ interests:
   - Data science
 
 education:
+  - degree: M.Sc Public Health
+    institution: Kristianstad University
+    start: 2025-01-01
+    end: 2026-12-31
+    summary: |
+      Further research and education with a Master's degree in Public Health.
+    button:
+      text: Download CV
+      url: /uploads/resume.pdf
+      icon: hero/arrow-down-tray
   - degree: BsC Public Health
     institution: Mid Sweden University
-    start: 2015-09-01
-    end: 2019-06-30
+    start: 2022-01-31
+    end: 2025-01-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      As a trained public health scientist, I have the knowledge to promote sustainable health development in society with a focus on social structures, the working environment, healthcare systems, gender, ethnicity and how lifestyle habits affect public health. My expertise encompasses both theoretical and practical strategies for improving health and preventing disease, and I am well versed in how public health work is conducted in both the public sector and voluntary organisations, both nationally and internationally.
+  - degree: BsC Business Management
+    institution: London South Bank University
+    start: 2016-09-01
+    end: 2017-06-30
+    summary: |
+          The programme provided knowledge to work independently and responsibly with tasks in business management, financial analysis, accounting, and marketing.
+  - degree: Merchandising and Buying Operations 
+    institution: SIH
+    start: 2013-08-01
+    end: 2015-06-30
+    summary: |
+      Theoretical and practical knowledge of international purchasing.
 
 experience:
   - role: Research Assistant
@@ -73,21 +83,26 @@ experience:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Research Assistant
+    org: Regional Cancer Center Stockholm Gotland
+    start: 2024-08-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Project administrator for the event Swedish Forum for Integrative Cancer Care V, as well as research assistant in the evaluation of educational initiatives in complementary and alternative medicine for healthcare professionals and cancer patients.
+  - role: Project Assistant
+    org: Regional Cancer Center Stockholm Gotland
+    start: 2024-02-01
+    end: 2024-04-30
+    summary: |
+      Supported the development of the Integrative Cancer Care support process and initiated an evaluation of training initiatives in complementary and alternative medicine for healthcare professionals and cancer patients.
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
+      - label: Data science
         level: 5
-      - label: Machine Learning
+      - label: Data analytics
         level: 5
-      - label: Cloud Computing
+      - label: Statistics
         level: 4
   - name: Research & Communication
     items:
@@ -99,16 +114,16 @@ skills:
         level: 4
 
 languages:
-  - name: English
+  - name: Swedish
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
+  - name: English
+    level: 5
     label: Fluent
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+#awards:
+#  - title: Best Paper Award
+#    awarder: NeurIPS
+#    date: "2022-12-01"
+#    summary: Awarded for groundbreaking work on efficient training of large models.
+#    icon: hero/trophy
