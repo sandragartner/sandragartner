@@ -9,7 +9,7 @@ hugoblox:
     description: Sandra Gärtner is a public health researcher at Karolinska Institutet, Sophiahemmet, Kristianstad University and Mid Sweden University.
   theme:
     mode: system
-    pack: contrast
+    pack: minimal
     colors:
       primary: ""
       secondary: ""
