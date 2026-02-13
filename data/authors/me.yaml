@@ -5,17 +5,22 @@ name:
   display: Sandra Gärtner
   given: Sandra
   family: Gärtner
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  alternate: 'Frida Josefin'  # Example: 王伟
+  pronunciation: 'ˈsæn.drə'  # Example: Wáng Wěi
   pronouns: she/her
 postnominals:
   - BsC
 status:
-  icon: "☕️"
+  icon: "🍵"
 role: Public Health Researcher
 bio: |
   Sandra Gärtner is a public health researcher at Karolinska Institutet,
   Sophiahemmet, Kristianstad University and Mid Sweden University.
+
+  Public health scientist with expertise in evidence-based complementary
+  and alternative medicine (CAM). Keen interest in social sustainability 
+  and holistic community development, with a firm belief that 
+  interdisciplinary and cross-sectoral collaboration is the key to success.
 
 affiliations:
   - name: Sophiahemmet University
@@ -38,9 +43,11 @@ links:
 
 interests:
   - Public Health
-  - MediYoga
   - Complimentary Medicine
-  - Data science
+  - Health Communication
+  - Education
+  - MediYoga
+  - Restorative Yoga
 
 education:
   - degree: M.Sc Public Health
@@ -49,16 +56,16 @@ education:
     end: 2026-12-31
     summary: |
       Further research and education with a Master's degree in Public Health.
-    button:
-      text: Download CV
-      url: /uploads/resume.pdf
-      icon: hero/arrow-down-tray
   - degree: BsC Public Health
     institution: Mid Sweden University
     start: 2022-01-31
     end: 2025-01-31
     summary: |
-      As a trained public health scientist, I have the knowledge to promote sustainable health development in society with a focus on social structures, the working environment, healthcare systems, gender, ethnicity and how lifestyle habits affect public health. My expertise encompasses both theoretical and practical strategies for improving health and preventing disease, and I am well versed in how public health work is conducted in both the public sector and voluntary organisations, both nationally and internationally.
+      As a trained public health scientist, I have the knowledge to promote sustainable health development in society with a focus on social structures, the working environment, healthcare systems, gender, ethnicity and how lifestyle habits affect public health. My expertise encompasses both theoretical and practical strategies for improving health and preventing disease, and I am well versed in how public health work is conducted in both the public sector and voluntary organisations, both nationally and internationally. Thesis title: "Health information needs for complementary and alternative medicine in cancer care: A qualitative study among women affected by cancer"
+    button:
+      text: Download thesis
+      url: https://www.diva-portal.org/smash/get/diva2:1931853/FULLTEXT01.pdf
+      icon: hero/arrow-down-tray
   - degree: BsC Business Management
     institution: London South Bank University
     start: 2016-09-01
