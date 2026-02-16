@@ -5,9 +5,9 @@ draft: false
 authors:
 - me
 author_notes:
-- "Equal contribution"
+ - "Own contribution"
 date: "2025-01-28T00:00:00Z"
-doi: "urn:nbn:se:miun:diva-53673"
+#doi: "urn:nbn:se:miun:diva-53673"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-28T00:00:00Z"
@@ -35,12 +35,11 @@ tags:
 featured: true
 
 # links:
-name: ""
-url: "www.diva-portal.org/smash/record.jsf?pid=diva2:1931853"
-url_pdf: https://www.diva-portal.org/smash/get/diva2:1931853/FULLTEXT01.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: 'https://scholar.google.com/scholar?q=Health%20information%20needs%20for%C2%A0complementary%20and%20alternative%20medicine%C2%A0in%20cancer%20care%3A%20A%20qualitative%20study%20among%20women%20affected%20by%C2%A0cancer'
+name: "DiVA Portal"
+#url: "www.diva-portal.org/smash/record.jsf?pid=diva2:1931853"
+#url_pdf: https://www.diva-portal.org/smash/get/diva2:1931853/FULLTEXT01.pdf
+# url_code: ''
+#url_poster: 'https://scholar.google.com/scholar?q=Health%20information%20needs%20for%C2%A0complementary%20and%20alternative%20medicine%C2%A0in%20cancer%20care%3A%20A%20qualitative%20study%20among%20women%20affected%20by%C2%A0cancer'
 url_project: ''
 url_slides: ''
 url_source: 'https://urn.kb.se/resolve?urn=urn:nbn:se:miun:diva-53673'
@@ -66,14 +65,15 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /callout %}}
+
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+#
+#Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

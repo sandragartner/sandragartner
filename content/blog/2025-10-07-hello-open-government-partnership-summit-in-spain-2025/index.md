@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello Open Government Partnership Summit in Spain 2025!"
 subtitle:   "- Saying hello to the Open Government Partnership summit in Spain 2025"
 date:       2025-10-07 08:30:00
-author:     "Sandra Gärtner"
+author:     me
 header-img: "featured.jpg"
 image:
   caption: 'Image credit: [**Lucas Petti**](https://br.linkedin.com/in/lucaspretti)'
