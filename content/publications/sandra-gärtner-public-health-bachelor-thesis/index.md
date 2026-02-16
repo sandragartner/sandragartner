@@ -38,7 +38,7 @@ featured: true
 name: "DiVA Portal"
 #url: "www.diva-portal.org/smash/record.jsf?pid=diva2:1931853"
 #url_pdf: https://www.diva-portal.org/smash/get/diva2:1931853/FULLTEXT01.pdf
-# url_code: ''
+# url_code: 'https://miun.diva-portal.org/smash/get/diva2:1931853/FULLTEXT01.pdf'
 #url_poster: 'https://scholar.google.com/scholar?q=Health%20information%20needs%20for%C2%A0complementary%20and%20alternative%20medicine%C2%A0in%20cancer%20care%3A%20A%20qualitative%20study%20among%20women%20affected%20by%C2%A0cancer'
 url_project: ''
 url_slides: ''
