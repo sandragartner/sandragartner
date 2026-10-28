@@ -1,152 +1,67 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
+# Sandra Gärtner
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
+**Public Health Researcher** · Sophiahemmet University  
+*(she/her)*
 
-<h1 align="center">The Portfolio That Works While You Sleep</h1>
-
-<p align="center">
-  <strong>Your unfair advantage in academia.</strong><br/>
-  Stop sending PDFs into the void. Build a living portfolio that boosts citations and lands offers.<br/>
-  Trusted by 250,000+ researchers at <strong>MIT, Stanford, and Google</strong>.
-</p>
-
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme"><b>🚀 Launch Free (60s)</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/?open=academic-cv&loading=true&utm_source=github&utm_medium=readme">Live Demo</a>
-  &nbsp;•&nbsp;
-  <a href="https://marketplace.visualstudio.com/items?itemName=hugoblox.hugoblox-studio"><b>Visual Editor</b></a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/z8wNYzb"><img src="https://img.shields.io/discord/722225264733716590?label=Join%20Discord&style=social" alt="Discord"></a>
-  <a href="https://github.com/HugoBlox/theme-academic-cv"><img src="https://img.shields.io/github/stars/HugoBlox/theme-academic-cv?label=Star%20Academic%20CV&style=social" alt="GitHub Stars"></a>
-</p>
+[![Website](https://img.shields.io/badge/Website-sandragartner.se-blue)](https://sandragartner.se/)
+[![DiVA](https://img.shields.io/badge/Publication-DiVA-green)](https://urn.kb.se/resolve?urn=urn:nbn:se:miun:diva-53673)
 
 ---
 
-## Why This Template?
+## About
 
-Most CVs are static PDFs that get lost in the pile. This is an **intelligent portfolio** that works 24/7 to advance your career.
+Public health scientist with expertise in **evidence-based complementary and alternative medicine (CAM)**.  
 
-- **🔮 Future-Proof:** Your content lives in simple **Markdown**. No database to break, no lock-in.
-- **🤖 AI-Ready:** Optimized for search engines and LLMs, so your work is found and cited.
-- **⚡ Zero Maintenance:** Auto-import citations from BibTeX and focus on research.
-- **✍️ Edit Visually:** Use **HugoBlox Studio** in VS Code — no coding needed. Full capabilities in Pro.
+Keen interest in **social sustainability** and **holistic community development**, with a firm belief that interdisciplinary and cross-sectoral collaboration is the key to success.
 
-<p align="center">
-  <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" 
-    alt="Deploy this template" width="400">
-  </a>
-</p>
+Solid background in business management and development, combined with a reflective, analytical and inclusive approach. Creative, curious and driven to contribute to a safer, more secure and prosperous world.
 
-![HugoBlox Studio in Action](https://raw.githubusercontent.com/HugoBlox/hugo-blox-builder/main/.github/media/studio/slide-1.webp)
-*HugoBlox Studio: Drag-and-drop page builder inside VS Code.*
+**Affiliations**  
+- Sophiahemmet University  
+- Karolinska Institutet  
+- Kristianstad University  
+- Mid Sweden University  
 
-> "My citations went up 3x after switching to this template. The citation auto-sync feature is a lifesaver."
-> — **Dr. Zhang**, AI Research Scientist, Meta
+Please reach out to collaborate.
 
 ---
 
-## Who This Is For
+## Education
 
-- Students and grads applying to top labs and industry roles
-- Researchers who want a living, citable portfolio
-- Faculty/PIs showcasing publications, talks, and group news
-
----
-
-## Features
-
-| Feature | Benefit |
-| :--- | :--- |
-| **Markdown, Jupyter, RStudio** | Write in the tools you already use. |
-| **Auto-Update Citations** | Drop in a BibTeX file; formatted lists generated automatically. |
-| **Visual Editor** | Drag-and-drop blocks to build pages in minutes. |
-| **Global CDN** | Blazing fast load times (100/100 Lighthouse scores). |
-| **Privacy First** | You own your data. Host for free on GitHub Pages. |
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| M.Sc. Public Health | Kristianstad University | 2025 – 2026 |
+| BSc Public Health | Mid Sweden University | 2022 – 2025 |
+| BSc Business Management | London South Bank University | 2016 – 2017 |
+| Merchandising and Buying Operations | SIH | 2013 – 2015 |
 
 ---
 
-## Notebook → Posts and Slides
+## Research interests
 
-- Publish your actual `.ipynb` as beautiful long-form posts — code, outputs, and narrative kept intact.
-- Slides in Markdown with Reveal.js: math, syntax highlight, diagrams, speaker notes.
-- Coming soon: **Notebook → Slides (beta)**. Request early access in Discord.
-
-Learn more: docs on [Notebooks](https://docs.hugoblox.com/reference/markdown/#-notebooks) and [Slides](https://docs.hugoblox.com/guides/slides/).
-
----
-
-## Why Go Pro (from $8/m)
-
-- Enhanced HugoBlox Studio visual editor — save 10–20 hours setting up and polishing
-- Premium CV & Resumé designs — make an unforgettable first impression
-- Pro blocks, remove attribution, and priority support
+- Evidence-based complementary and alternative medicine (CAM)
+- Health communication & health information needs
+- Social sustainability and holistic community development
+- Interdisciplinary and cross-sectoral collaboration
+- MediYoga & Restorative Yoga
 
 ---
 
-## Free vs Pro
+## Publications
 
-| Feature | Academic CV (Free) | Academic CV Pro & Resumé Pro |
-| --- | --- | --- |
-| Design | Professional & clean | Premium designs |
-| Layouts | Standard sections | Advanced timelines & layouts |
-| Courses/Lectures | Basic | Fully-Featured |
-| First Impression | Strong | Unforgettable |
-| Discord Support | Community | Priority |
+**Gärtner, S.** (2025). *Health information needs for complementary and alternative medicine in cancer care*.  
+Bachelor thesis, Mid Sweden University.  
+[DiVA / Full text](https://urn.kb.se/resolve?urn=urn:nbn:se:miun:diva-53673)
 
-<p align="center">
-  <a href="https://hugoblox.com/pro?utm_source=github&utm_medium=readme"><b>💎 Upgrade to Pro</b></a><br/>
-  <a href="https://hugoblox.com/templates/academic-cv-pro/start?utm_source=github&utm_medium=readme">✨ Deploy Academic CV Pro</a>
-  &nbsp;•&nbsp;
-  <a href="https://hugoblox.com/templates/resume-pro/start?utm_source=github&utm_medium=readme">📄 Deploy Resumé Pro</a>
-</p>
+> One in four cancer patients in Sweden use CAM. This qualitative study explores the health information needs of women affected by cancer regarding evidence-based information about CAM.
 
 ---
 
-## Get Started
+## Website & CV
 
-### Option 1: No-Code (Fastest)
-Launch a fully hosted site in your browser. No software to install.
-
-👉 [**Launch in Browser (Free)**](https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme)
-
-### Option 2: Studio (Visual Editor)
-1) Install [HugoBlox Studio](https://marketplace.visualstudio.com/items?itemName=hugoblox.hugoblox-studio) for VS Code  
-2) Open this project and edit visually
-
-### Option 3: CLI (Developers)
-1) Install [Hugo](https://docs.hugoblox.com/start/cli/)
-2) Create your site with the CLI:
-
-```bash
-npx hugoblox create site --template academic-cv
-```
+- Personal website: [sandragartner.se](https://sandragartner.se/)  
+- CV available for download on the website
 
 ---
 
-## FAQ
-
-- Do I need to know Hugo? No — you can edit visually or write Markdown.
-- Can I host for free? Yes — GitHub Pages/Netlify are supported.
-- Can I export/migrate later? Yes — your site is just files.
-- Can I cancel Pro anytime? Yes.
-
----
-
-## Community & Support
-
-- 💬 [**Discord Community**](https://discord.gg/z8wNYzb)
-- 📚 [**Documentation**](https://docs.hugoblox.com/?utm_source=github&utm_medium=readme)
-- 🐦 [**Follow on X**](https://x.com/BuildLore)
-- ⭐ [**Star on GitHub**](https://github.com/HugoBlox/hugo-blox-builder)
-
----
-
-MIT © 2016-Present [George Cushen](https://georgecushen.com)
-
-<!--START_SECTION:news-->
-<!--Updated at 2025-12-21T02:11:09.323Z-->
-<!--END_SECTION:news-->
+*Open for collaborations in public health research, CAM, health communication and interdisciplinary projects.*
